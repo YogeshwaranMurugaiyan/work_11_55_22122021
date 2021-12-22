@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 added file 1
 
 udated file line
+=======
+added file 1
+>>>>>>> d9f8b22ee7d34e53f996813052b5cae181ed3154
